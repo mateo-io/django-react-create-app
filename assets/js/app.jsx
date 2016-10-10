@@ -7,8 +7,7 @@ class Hello extends React.Component {
         <div className="row">
           <div className="col-md-2"></div>
           <div className="well col-md-8">
-            <h1 className="center">Hello, world.</h1>
-            <h6>Create your first react app</h6>
+            <h1 className="center">Awesome App</h1>
           </div>
           <div className="col-md-2"></div>
         </div>
