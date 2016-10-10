@@ -23,8 +23,10 @@
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
+    "axios": "^0.14.0",
     "babel-core": "^6.17.0",
     "babel-preset-react": "^6.16.0",
+    "material-ui": "^0.16.0",
     "react-dom": "^15.3.2"
   }
 }
