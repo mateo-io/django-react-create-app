@@ -1,9 +1,12 @@
 {% load render_bundle from webpack_loader %}
+{% load static from staticfiles %}
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Example</title>
+    <title>Django React Awesome App</title>
+    <link rel="stylesheet" href="{% static 'css/custom.css' %}">
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
   </head>
 
   <body>

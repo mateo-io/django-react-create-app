@@ -1,0 +1,9 @@
+html, body{
+  padding: 0
+  height: auto;
+  width: auto;
+}
+
+.center{
+  text-align: center;
+}
