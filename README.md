@@ -13,11 +13,11 @@ This is a very lean implementation of React and python Django.
 ####In two commands
 
 
-`git clone https://github.com/mateomgj/django-react-create-app djangoreact && cd djangoreact && rm -drf .git && git init && npm install && pip install -r requirements.txt && npm run webpack`
+`git clone https://github.com/mateo-io/django-react-create-app djangoreact && cd djangoreact && rm -drf .git && git init && npm install && pip install -r requirements.txt && npm run webpack`
 
 `python manage.py runserver`
 
-* `git clone https://github.com/mateomgj/django-react-create-app djangoreact`
+* `git clone https://github.com/mateo-io/django-react-create-app djangoreact`
 * `cd djangoreact`
 * `git rm .git && git init`
 * `npm install`
